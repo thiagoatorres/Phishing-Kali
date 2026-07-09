@@ -27,6 +27,7 @@ Apresentar de forma prática o funcionamento de um ataque de engenharia social p
 ![Escolha da Página](img7.png)
 6. **Teste de Captura:** Acesso à página clonada a partir de uma máquina de teste na mesma rede e simulação de inserção de credenciais de teste para visualizar a captura dos dados em tempo real no terminal do Kali Linux.
 ![Teste de Captura](img8.png)
+![Teste de Captura](img9.png)
 
 ## 🛡️ Como Prevenir este Ataque na Empresa
 Para proteger o ambiente corporativo contra ameaças de engenharia social baseadas em Phishing, as seguintes medidas são recomendadas:
