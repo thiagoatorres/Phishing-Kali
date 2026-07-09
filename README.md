@@ -14,11 +14,19 @@ Apresentar de forma prática o funcionamento de um ataque de engenharia social p
 
 ## 🚀 Passo a Passo Realizado
 1. **Inicialização do SET:** Acesso ao menu do Social-Engineer Toolkit via terminal com privilégios de superusuário (`sudo setoolkit`).
+![Configuração do Toolkit](img1.png)
 2. **Seleção do Tipo de Ataque:** Escolha do módulo de engenharia social (`Social-Engineering Attacks`).
+![Seleção do Tipo de Ataque](img2.png)
 3. **Vetor de Ataque:** Escolha do vetor de ataque via web (`Web Attack Vectors`).
+![Vetor de Ataquee](img3.png)
 4. **Método de Captura:** Seleção do método de colheita de credenciais (`Credential Harvester Attack Method`).
+![Método de Captura](img4.png)
 5. **Escolha da Página:** Uso do modelo pré-configurado (*Web Templates*) para simular a página de login do Google de forma offline e segura no laboratório, este método foi adotado para contornar o erro apresetnado ao clonar a página do Facebook.
+![Escolha da Página](img5.png)
+![Escolha da Página](img6.png)
+![Escolha da Página](img7.png)
 6. **Teste de Captura:** Acesso à página clonada a partir de uma máquina de teste na mesma rede e simulação de inserção de credenciais de teste para visualizar a captura dos dados em tempo real no terminal do Kali Linux.
+![Teste de Captura](img8.png)
 
 ## 🛡️ Como Prevenir este Ataque na Empresa
 Para proteger o ambiente corporativo contra ameaças de engenharia social baseadas em Phishing, as seguintes medidas são recomendadas:
